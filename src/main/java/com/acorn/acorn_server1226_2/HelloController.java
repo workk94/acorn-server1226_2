@@ -10,7 +10,7 @@ public class HelloController {
     public String hi () {
 
 
-        return "hi Data";
+        return "hi Data!!!";
     }
 
 }
